@@ -1,0 +1,7 @@
+langchain
+langchain_text_splitters
+langchain_huggingface
+langchain_groq
+langchain_community
+langchain_chroma
+streamlit
