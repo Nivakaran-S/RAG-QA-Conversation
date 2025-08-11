@@ -95,19 +95,12 @@ streamlit run app.py
 
 ## 📈 How It Works: High-Level Flow
 1. PDF Upload & Parsing: Extracts raw text from PDFs using PyPDFLoader.
-
 2. Text Chunking: Splits documents into overlapping chunks optimized for semantic search.
-
 3. Embedding Creation: Uses HuggingFace’s all-MiniLM-L6-v2 to convert text chunks into vector embeddings.
-
 4. Vector Indexing: Stores embeddings in Chroma for efficient retrieval.
-
 5. Contextual Question Reformulation: Reformulates follow-up questions to standalone queries considering chat history.
-
 6. Relevant Context Retrieval: Retrieves top relevant document chunks via vector similarity search.
-
 7. Answer Generation: Groq LLM generates precise, concise answers using retrieved context.
-
 8. Session-Based Chat History: Maintains history enabling multi-turn conversations with context awareness.
 
 ## 🙌 Contributions
