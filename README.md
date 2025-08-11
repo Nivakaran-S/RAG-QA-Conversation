@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project is an **advanced Conversational Retrieval-Augmented Generation (RAG) application** built with Streamlit that enables **interactive question answering over uploaded PDF documents** — enhanced with **dynamic chat history awareness** to simulate natural, contextual conversations.
+This project is an **advanced Conversational Retrieval-Augmented Generation (RAG) application** built with Streamlit that enables **interactive question answering over uploaded PDF documents**, enhanced with **dynamic chat history awareness** to simulate natural, contextual conversations.
 
 Using state-of-the-art embedding models and Groq’s powerful LLM, this app demonstrates how AI can be combined with custom document ingestion pipelines to deliver precise, contextually relevant answers, making it a perfect showcase of skills in:
 
@@ -31,12 +31,12 @@ Using state-of-the-art embedding models and Groq’s powerful LLM, this app demo
 This mini project encapsulates essential, industry-relevant skills and concepts for AI & Data Science roles:
 
 - Hands-on experience with **retrieval-augmented generation (RAG)** workflows.
-- Expertise in **embedding-based semantic search** — crucial for next-gen AI search engines.
+- Expertise in **embedding-based semantic search**, crucial for next-gen AI search engines.
 - Real-world application of **conversational AI** techniques with **session-aware context management**.
 - Practical integration of cutting-edge APIs (Groq LLM, HuggingFace, Chroma).
 - Clean, modular, and production-ready **Streamlit app** showcasing end-to-end ML pipeline deployment.
 
-This project is a testament to my ability to engineer scalable AI solutions that combine NLP, vector search, and user experience — perfect for data-driven companies and AI startups.
+This project is a testament to my ability to engineer scalable AI solutions that combine NLP, vector search, and user experience, perfect for data-driven companies and AI startups.
 
 ---
 
