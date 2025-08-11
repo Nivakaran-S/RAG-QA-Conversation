@@ -1,11 +1,5 @@
 # Conversational RAG Q&A with PDF Upload & Contextual Chat History
 
-[![Streamlit](https://img.shields.io/badge/streamlit-app-brightgreen)](https://streamlit.io/)  
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
----
-
 ## 🚀 Project Overview
 
 This project is an **advanced Conversational Retrieval-Augmented Generation (RAG) application** built with Streamlit that enables **interactive question answering over uploaded PDF documents** — enhanced with **dynamic chat history awareness** to simulate natural, contextual conversations.
