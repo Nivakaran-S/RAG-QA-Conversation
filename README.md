@@ -113,6 +113,7 @@ streamlit run app.py
 ## 🙌 Contributions
 
 --
+
 Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
 
 
