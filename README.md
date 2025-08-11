@@ -111,9 +111,6 @@ streamlit run app.py
 8. Session-Based Chat History: Maintains history enabling multi-turn conversations with context awareness.
 
 ## 🙌 Contributions
-
---
-
 Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
 
 
